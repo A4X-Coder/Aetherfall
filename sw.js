@@ -1,4 +1,4 @@
-const CACHE_NAME = 'aetherfall-v1';
+const CACHE_NAME = 'aetherfall-v2';
 
 const ASSETS = [
   './',
