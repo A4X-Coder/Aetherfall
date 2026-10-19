@@ -1,0 +1,17 @@
+{
+  "name": "Aetherfall",
+  "short_name": "Aetherfall",
+  "description": "Harmonize celestial crystals in a calming cosmic match-3 puzzle.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05070e",
+  "theme_color": "#0a0f24",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%23070b18'/%3E%3Cpolygon points='96,24 160,96 96,168 32,96' fill='%2338bdf8' opacity='0.85'/%3E%3Cpolygon points='96,44 140,96 96,148 52,96' fill='%23a855f7' opacity='0.7'/%3E%3Cpolygon points='96,64 120,96 96,128 72,96' fill='%23ffffff' opacity='0.9'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
