@@ -1,13 +1,14 @@
 const CACHE_NAME = 'aetherfall-v1';
+
 const ASSETS = [
   './',
   './index.html',
-  './css/style.css',
-  './js/audio.js',
-  './js/levels.js',
-  './js/engine.js',
-  './js/renderer.js',
-  './js/game.js',
+  './style.css',
+  './audio.js',
+  './levels.js',
+  './engine.js',
+  './renderer.js',
+  './game.js',
   './manifest.json'
 ];
 
