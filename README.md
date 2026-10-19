@@ -6,7 +6,7 @@ A cosmic Match-3 puzzle game featuring celestial crystals, special combos, atmos
 
 🎮 Play the Game
 
-👉 "PLAY AETHERFALL NOW" (https://a4x-coder.github.io/Aetherfall/)
+👉 "PLAY AETHERFALL NOW" (https://a4x-coder.github.io/Aetherfall/⁠)
 
 Open the game in your browser and begin your cosmic journey!
 
